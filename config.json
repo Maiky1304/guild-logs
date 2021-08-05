@@ -1,0 +1,13 @@
+{
+  "token": "token-here",
+  "log-channels": {
+    "members": "872778679556665375",
+    "messages": "872778679556665375",
+    "channels": "872778679556665375"
+  },
+  "colors": {
+    "error": "#f22c2c",
+    "info": "#00c4a2",
+    "warning": "#ffda34"
+  }
+}
